@@ -1,4 +1,4 @@
-# norm_concentration_high_dimensions
+# Effect of High Dimensions on the Discriminating Power of Kernels
 Work done with Prof. Jayaram Balasubramaniam on 'The Effect of High Dimensions on the Discriminating Power of Kernels'
 
 The use of kernels in ML algorithms is almost ubiquitous. However, the curse of high dimensionality is known to inflict kernels 
